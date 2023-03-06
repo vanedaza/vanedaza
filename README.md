@@ -1,12 +1,19 @@
 <h2> Hi, I'm Vanessa Daza!</h2>
 
 
-<img align='right' src="https://cdn.domestika.org/c_limit,dpr_1.0,f_auto,q_auto,w_820/v1454494321/content-items/001/523/663/yo-yo-yo-original.gif?1454494321" width="400">
-
-<p><em>PhD student in Astronomy at<a href="https://iate.oac.uncor.edu/"> Institute of Theoretical and Experimental Astronomy (IATE)</a> under the direction of Dr. Marcelo Lares.</em></p>
+<img align='right' src="https://cdn.domestika.org/c_limit,dpr_1.0,f_auto,q_auto,w_820/v1454494321/content-items/001/523/663/yo-yo-yo-original.gif?1454494321" width="380">
 
 
-<p><em> As part of my PhD thesis, I work on the automatic analysis of large volumes of astronomical data with multiple messengers. In addition, I am a member of the Transient Optical Observatory of the South (TOROS) project, and one of my roles in this project is the development of the pipeline to be used in this telescope, which involves programming for the handling of a large volume of images to be processed and calibrated. Also, in the last two years of my PhD, I worked on the classification using supervised and unsupervised machine learning models of eclipsing variable stars from time series and on the classification of galaxies and non-galaxies in images.</em></p>
+<p><em>PhD student in Astronomy at  
+<a href="https://iate.oac.uncor.edu/">(IATE)</a>  
+under the direction of Dr. Marcelo Lares.
+
+As part of my PhD thesis, I work on the automatic analysis of large volumes of astronomical data with multiple messengers. In addition, I am a member of the  
+Transient Optical Observatory of the South (TOROS) project, and one of my roles  
+in this project is the development of the pipeline to be used in this telescope, which involves programming for the handling of a large volume of images to be processed  
+and calibrated. Also, in the last two years of my PhD, I worked on the classification  
+using supervised and unsupervised machine learning models of eclipsing variable  
+stars from time series and on the classification of galaxies and non-galaxies in images.</em></p>
 
 
 [![Twitter: ](https://img.shields.io/twitter/follow/@DazaVanessa?style=social)](https://twitter.com/DazaVanessa)
