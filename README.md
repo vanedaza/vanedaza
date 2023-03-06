@@ -8,7 +8,8 @@
 <a href="https://iate.oac.uncor.edu/">(IATE)</a>  
 under the direction of Dr. Marcelo Lares.
 
-As part of my PhD thesis, I work on the automatic analysis of large volumes of astronomical data with multiple messengers. In addition, I am a member of the Transient Optical Observatory of the South (TOROS) project, and one of my roles in this project is the development of the pipeline to be used in this telescope, which involves programming for the handling of a large volume of images to be processed and calibrated. Also, in the last two years of my PhD, I worked on the classification  
+As part of my PhD thesis, I work on the automatic analysis of large volumes of astronomical data with multiple messengers. In addition, I am  
+  a member of the Transient Optical Observatory of the South (TOROS) project, and one of my roles in this project is the development of the pipeline to be used in this telescope, which involves programming for the handling of a large volume of images to be processed and calibrated. Also, in the last two years of my PhD, I worked on the classification  
 using supervised and unsupervised machine learning models of eclipsing variable stars from time series and on the classification of galaxies and non-galaxies in images.</em></p>
 
 
