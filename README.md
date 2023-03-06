@@ -13,7 +13,7 @@ As part of my PhD thesis, I work on the automatic analysis of large volumes of a
   Also, in the last two years of my PhD, I worked on the classification using supervised and unsupervised machine learning models of eclipsing variable stars from time series and on the classification of galaxies and non-galaxies in images.</em></p>
 
 
-[![Twitter: ](https://img.shields.io/twitter/follow/@DazaVanessa?style=social)](https://twitter.com/DazaVanessa)
+[![Twitter: ](https://img.shields.io/twitter/follow/DazaVanessa?style=social)](https://twitter.com/DazaVanessa)
 [![Linkedin: Ingrid Vanessa Daza Perilla](https://img.shields.io/badge/-vanedaza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ingrid-vanessa-daza-perilla/)](https://www.linkedin.com/in/ingrid-vanessa-daza-perilla/)
 
 
