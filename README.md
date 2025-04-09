@@ -4,7 +4,7 @@
 <img align='right' src="https://cdn.domestika.org/c_limit,dpr_1.0,f_auto,q_auto,w_820/v1454494321/content-items/001/523/663/yo-yo-yo-original.gif?1454494321" width="380">
 
 
-<p><em>PhD student in Astronomy at  
+<p><em>PhD in Astronomy at  
 <a href="https://iate.oac.uncor.edu/">(IATE)</a>  
 under the direction of Dr. Marcelo Lares.
 
